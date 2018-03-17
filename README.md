@@ -1,2 +1,2 @@
-# FirstProject
-Automation
+# Sample_repo
+Selenium Java Framework
